@@ -29,7 +29,7 @@ Este proyecto implementa un backend completo para una aplicación de gestión de
 - **Base de datos:** PostgreSQL 15+ (via Supabase)
 - **Validación:** Zod
 - **Variables de entorno:** dotenv
-- **Testing:** Jest (opcional)
+- **Testing:** htttp Yack
 
 ## Instalación <a name="instalación"></a>
 
@@ -63,7 +63,7 @@ PORT=3000
 ## Documentación API <a name="documentación-api"></a>
 
 ### Base URL
-`http://localhost:3000/api/v1`
+`http://localhost:3000`
 
 ### Endpoints principales
 
@@ -111,7 +111,7 @@ Content-Type: application/json
 }
 ```
 
-### Respuesta exitosa (201)
+### Respuesta exitosa (200)
 
 ```json
 {
@@ -139,7 +139,6 @@ npm start
 ## Contribución <a name="contribución"></a>
 
 <details>
-<summary>Ver guía de contribución</summary>
 
 1. Haz fork del proyecto
 2. Crea una rama feature (`git checkout -b feature/nueva-funcionalidad`)
@@ -147,10 +146,6 @@ npm start
 4. Haz push a la rama (`git push origin feature/nueva-funcionalidad`)
 5. Abre un Pull Request
 
-**Requisitos para contribuciones:**
-- Sigue el estilo de código existente
-- Incluye tests relevantes
-- Documenta los cambios en el README
 </details>
 
 ## Licencia <a name="licencia"></a>
@@ -158,7 +153,7 @@ npm start
 Distribuido bajo licencia MIT. Ver `LICENSE` para más información.
 
 <div align="center" style="margin-top: 40px;">
-  <p>© 2023 Tu Nombre | 
-  <a href="mailto:tu-email@ejemplo.com">Contacto</a> | 
-  <a href="https://github.com/tu-usuario">GitHub</a></p>
+  <p>© 2025 Alejandra Pantoja | 
+  <a href="mailto:alepantojafl@gmail.com">Contacto</a> | 
+  <a href="https://github.com/Ale-Pantoja">GitHub</a></p>
 </div>
