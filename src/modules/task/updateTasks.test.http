@@ -1,0 +1,7 @@
+PUT http://localhost:3000/tasks/3
+Content-Type: application/json
+
+{
+  "task": "Un intento de update task tarea 3",
+  "isChecked": false
+}
