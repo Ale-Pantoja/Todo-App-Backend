@@ -102,7 +102,7 @@ PORT=3000
 ### Ejemplo de petición
 
 ```http
-POST /api/v1/tasks
+POST http://localhost:3000/tasks
 Content-Type: application/json
 
 {
