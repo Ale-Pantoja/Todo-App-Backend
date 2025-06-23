@@ -1,16 +1,5 @@
 # Aplicación Todo - Backend API
 
-## Tabla de Contenidos
-
-- [Visión General](#visión-general)
-- [Tecnologías](#tecnologías)
-- [Instalación](#instalación)
-- [Configuración](#configuración)
-- [Documentación API](#documentación-api)
-- [Despliegue](#despliegue)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
-
 ## Visión General <a name="visión-general"></a>
 
 Este proyecto implementa un backend completo para una aplicación de gestión de tareas (Todo App), proporcionando endpoints RESTful para operaciones CRUD con persistencia en PostgreSQL a través de Supabase.
